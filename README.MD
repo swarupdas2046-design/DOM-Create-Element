@@ -1,0 +1,5 @@
+# JS-DOM TASK 3 
+
+ Task -
+
+when user clicks on button create h1, put random quote in it (from array), give them random position, rotation, scale, color(optional) and append them to parent
