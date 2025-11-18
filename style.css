@@ -22,7 +22,7 @@ main {
 }
 main button {
   padding: 22px 40px;
-  background-color: pink;
+  background: linear-gradient(to left, red, blue);
   border-radius: 7px;
   border: none;
   font-size: 20px;
